@@ -20,4 +20,4 @@ for (i=0;i<100;i++) {
 ```
 After every card has been flipped, we get the following egg:
 
-![egg](egg-memeory.png)
+![egg](egg4-memeory.png)
