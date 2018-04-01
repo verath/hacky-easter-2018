@@ -1,0 +1,8 @@
+__pycache__
+.vscode
+
+# run train.py to train model
+model
+
+# run dl_train_data.py to download
+data.jsonl
