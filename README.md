@@ -1,4 +1,7 @@
 # hacky-easter-2018
+Solutions to the Hacky Easter 2018 CTF (https://hackyeaster.hacking-lab.com/hackyeaster/)
+
+Each level is described in its own directory. Not all levels were solved.
 
 ## Mobile Levels
 
